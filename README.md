@@ -7,4 +7,4 @@ the way to control the shooter is pretty simple, use A to let shooter keep go le
 
 note: if you let the ray keep forever, Slamming him directly into an object will not score any points, you need to press down arrow first, aim and then use up arrow again
 
-the game link : https://raw.githack.com/stonywu/computer-science-culminating-assignment/main/index.html
+the game link : [https://raw.githack.com/stonywu/computer-science-culminating-assignment/main/index.html](https://raw.githack.com/stonywu/computer-science-culminating-assignment/main/index.html)
