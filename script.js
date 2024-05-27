@@ -18,7 +18,7 @@ function setup() {
 
 function draw() {
   if (!gameStarted) { // if game hasn't started
-    image(gameStart, 0, 0, width, height); // display the start image covering the whole canvas
+    image(gameStart, 0, 0, width, height); // display the start image 
     return; // exit the draw function early
   }
   
@@ -83,7 +83,7 @@ function controlad(){
 
 function checkHit() {
   // when hit the ball, the grade increate, the ball appear aother random position at top
-  if (circleA - 10 < x && x < circleA + 10) {
+  if (circleA - 10 < x && x < circleA + 10) {// check whether the ray hit the object or not
     score += 1; // socre +1
     y = 0;// the ball's y position appear at top
     x = random(width);//the ball appear in random position
