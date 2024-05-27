@@ -95,5 +95,4 @@ function mouseClicked() {
     gameStarted = 1; // mark the game as started
   }
 }
-//during the coding, i use many function, including loadimage, draw, and setup. for example, i
-// use loadimage to load the game start image. this is 
+
